@@ -2,7 +2,7 @@
 
 Este é um projeto inovador que une o poder do Whisper e do ChatGPT (modelos de machine learning da OpenAI) para criar um assistente de voz multi-idiomas. O assistente é capaz de compreender o usuário, processar a pergunta de forma inteligente e responder via áudio, proporcionando uma experiência de comunicação fluida e natural.
 
-👉 **[CLIQUE AQUI PARA ACESSAR O NOTEBOOK]([https://notebooklm.google.com/notebook/5dcde4fb-a92e-4f40-a52a-1ae59f43ad2a?authuser=2](https://colab.research.google.com/drive/1s32kzk2NIGfQDVBbw57enZITNtYAgRnh?usp=sharing))**
+👉 **[CLIQUE AQUI PARA ACESSAR O NOTEBOOK](https://notebooklm.google.com/notebook/5dcde4fb-a92e-4f40-a52a-1ae59f43ad2a?authuser=2](https://colab.research.google.com/drive/1s32kzk2NIGfQDVBbw57enZITNtYAgRnh?usp=sharing)**
 
 O projeto foi desenvolvido inteiramente no Google Colab, facilitando o teste em tempo real sem a necessidade de configurações complexas de ambiente local.
 
